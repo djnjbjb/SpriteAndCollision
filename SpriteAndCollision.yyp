@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "8d5040f5-d435-4c05-8d59-68989d991f6a",
+            "Value": {
+                "id": "a21a29c8-0911-4241-b3f0-1e235a9deb23",
+                "resourcePath": "objects\\obj_BboxNoLargerThanSprite\\obj_BboxNoLargerThanSprite.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "94859836-92c9-47f9-a062-6742c3a65916",
             "Value": {
                 "id": "1f5cb1d0-1321-4153-a5c0-3e55edc8bc77",
